@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'sublimetextknowledgebase', u'Sublime Text Knowledge Base Documentation',
+    ('index', 'sublimetextknowledgebase', u'Sublime Text Knowledge Base',
      [u'Sublime Text Community'], 1)
 ]
 
@@ -227,7 +227,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'SublimeTextKnowledgeBase', u'Sublime Text Knowledge Base Documentation',
+  ('index', 'SublimeTextKnowledgeBase', u'Sublime Text Knowledge Base',
    u'Sublime Text Community', 'SublimeTextKnowledgeBase', 'One line description of project.',
    'Miscellaneous'),
 ]
