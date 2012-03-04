@@ -9,7 +9,7 @@ Welcome to the Sublime Text Knowledge Base
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    how_to_solve_nearly_every_problem
 
