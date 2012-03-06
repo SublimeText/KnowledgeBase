@@ -10,7 +10,7 @@ The readable version of the Sublime Text KB is hosted at readthedocs.org:
 
 Go to the `Sublime Text KB`_ now!
 
-.. _Sublime Text KB: http://sublime-text-knowledge-base.rtfd.org
+.. _Sublime Text KB: http://kb.sublimetext.info
 
 How to Contribute
 =================
