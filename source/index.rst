@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 1
 
    how_to_solve_nearly_every_problem
+   fix_theme_issues
 
 
 

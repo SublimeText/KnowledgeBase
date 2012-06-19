@@ -16,7 +16,7 @@ How to Contribute
 =================
 
 We're still in the early stages, but as a rule of thumb, try to follow the
-strcuture of existing articles for consistency.
+structure of existing articles for consistency.
 
 You can find a template to use as a base for new articles under the
 *./template* directory.
