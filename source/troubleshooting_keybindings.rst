@@ -16,7 +16,7 @@ this problem, it's likely that you or a package you've installed has overriden
 the key binding in question.
 
 To see which command a key binding triggers, type the following into the Python
-console (``Ctrl + ```)::
+console (``Ctrl + ```) and press enter::
 
     sublime.log_commands(True)
 
